@@ -43,6 +43,11 @@ end
 using_delete ["Hi", "Tanya", "Love"]
   using_delete.delete("Tanya")
 end
+
+using_delete_at ["Hi", "Tanya", "Love", 2]
+  using_delete_at.delete(2)
+end
+  
   
 
   
