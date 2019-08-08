@@ -12,5 +12,9 @@ end
 
 pop_with_args ["Hi", "Tanya", "Love"]
   pop_with_args.pop
-  pop_with_args\
+  pop_with_args
+end
+
+using_shift ["Hi", "Tanya", "Love"]
+  using_shift.shift 
 end
