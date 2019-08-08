@@ -35,7 +35,10 @@ end
 using_uniq ["Hi", "Tanya", "Love"]
   using_insert.uniq
 end
-  
+
+using_flatten ["Hi", "Tanya", "Love"]
+  using_flatten.flatten
+end  
   
 
   
