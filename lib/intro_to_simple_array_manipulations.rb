@@ -31,6 +31,10 @@ end
 using_insert ["Hi", "Tanya", "Love"]
   using_insert.insert("SO")
 end
+
+using_uniq ["Hi", "Tanya", "Love"]
+  using_insert.uniq
+end
   
   
 
