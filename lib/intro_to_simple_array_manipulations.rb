@@ -23,3 +23,10 @@ shift_with_args ["Hi", "Tanya", "Love"]
   shift_with_args.shift
   shift_with_args
 end
+
+using_concat ["Hi", "Tanya", "Love"] ["Hi", "Tanya", "Love"]
+  using_concat.concat
+end
+  
+
+  
