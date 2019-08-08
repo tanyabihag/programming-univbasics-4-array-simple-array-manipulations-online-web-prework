@@ -12,4 +12,5 @@ end
 
 pop_with_args ["Hi", "Tanya", "Love"]
   pop_with_args.pop
-  pop
+  pop_with_args\
+end
