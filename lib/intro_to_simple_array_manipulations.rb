@@ -29,7 +29,8 @@ using_concat ["Hi", "Tanya", "Love"] ["Hi", "Tanya", "Love"]
 end
 
 using_insert ["Hi", "Tanya", "Love"]
-  
+  using_insert.insert("SO")
+end
   
   
 
