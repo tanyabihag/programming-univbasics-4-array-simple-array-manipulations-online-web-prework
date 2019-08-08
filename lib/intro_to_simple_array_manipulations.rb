@@ -18,3 +18,8 @@ end
 using_shift ["Hi", "Tanya", "Love"]
   using_shift.shift 
 end
+
+shift_with_args ["Hi", "Tanya", "Love"]
+  shift_with_args.shift
+  shift_with_args
+end
