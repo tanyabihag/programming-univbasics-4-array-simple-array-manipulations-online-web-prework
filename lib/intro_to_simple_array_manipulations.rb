@@ -39,6 +39,10 @@ end
 using_flatten ["Hi", "Tanya", "Love"]
   using_flatten.flatten
 end  
+
+using_delete ["Hi", "Tanya", "Love"]
+  using_delete.delete("Tanya")
+end
   
 
   
