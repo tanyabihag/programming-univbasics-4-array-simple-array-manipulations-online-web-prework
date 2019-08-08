@@ -9,3 +9,7 @@ end
 using_pop ["Hi", "Tanya", "Love"]
   using_pop.pop("so")
 end
+
+pop_with_args ["Hi", "Tanya", "Love"]
+  pop_with_args.pop
+  pop
